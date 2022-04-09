@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FJay81
-- 👀 I’m interested in Python and Java.
-- 🌱 I’m currently learning Java and currently creating a way for beginners to learn Java
-- 💞️ I’m looking to collaborate on anything minecraft and anyway to help beginners
+- 👀 I’m interested in Python, c++ and Java.
+- 🌱 I’m currently learning C++ and currently creating a way for beginners to learn Java
+- 💞️ I’m looking to collaborate on anything minecraft and anyway to help beginners and other random stuff.
 - 📫 How to reach me fjaydadon@gmail.com
 
 <!---
