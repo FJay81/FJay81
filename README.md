@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FJay81
-- 👀 I’m interested in Python, c++ and Java.
-- 🌱 I’m currently learning C++ and currently creating a way for beginners to learn Java
-- 💞️ I’m looking to collaborate on anything minecraft and anyway to help beginners and other random stuff.
+i can program in c++, java, c#, python and a bit in assembly
+im currently working on a multipart physics sim, it will be uploaded when i can get the prototype working
 - 📫 How to reach me fjaydadon@gmail.com
 
 <!---
